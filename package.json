@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "20.x"
+    "node": "22.x"
   },
   "dependencies": {
     "@maptiler/client": "^1.8.1",
